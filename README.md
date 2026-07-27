@@ -61,10 +61,10 @@ $ cat gustavo.json
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Voidl1k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Voidl1k&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Antero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Antero&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voidl1k&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Antero&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 
 </div>
 
@@ -87,6 +87,6 @@ $ cat gustavo.json
 
 *"Todo dev sênior já foi um dev que não sabia nem o que era um `console.log`."*
 
-<img src="https://komarev.com/ghpvc/?username=Voidl1k&color=blueviolet&style=flat" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=Gustavo-Antero&color=blueviolet&style=flat" alt="visitor badge"/>
 
 </div>
