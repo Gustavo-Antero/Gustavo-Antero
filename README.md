@@ -2,6 +2,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo;18+anos+%7C+Ensino+M%C3%A9dio;Futuro+Dev+Backend+%2F+Web" alt="Typing SVG" />
 
+<br>
+
+<img src="https://img.shields.io/badge/Futuro%20Desenvolvedor%20Backend-1a1a2e?style=flat-square&color=2E9EF7&labelColor=161b22" />
+
+</div>
+
+Me chamo Gustavo Antero, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino fundamental no Marista e estou terminando o ensino médio no Adventista de Viamão. Após a formatura, vou cursar Análise e Desenvolvimento de Sistemas na PUCRS. Curto tecnologia e estou construindo conhecimento em backend por conta própria, testando projeto atrás de projeto.
+
+<div align="center">
+
+<a href="https://github.com/Gustavo-Antero" target="_blank"><img src="https://img.shields.io/badge/-Siga%20me-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/github/followers/Gustavo-Antero?label=Seguidores&style=for-the-badge&color=1DA1F2&labelColor=000000" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Gustavo-Antero&label=Reposit%C3%B3rios&query=%24.public_repos&color=success&style=for-the-badge" />
+
 </div>
 
 ---
