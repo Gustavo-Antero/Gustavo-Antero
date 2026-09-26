@@ -50,20 +50,6 @@ $ cat gustavo.json
 
 ---
 
-### `> sobre mim`
-
-```
-🎓 Terminando o Ensino Médio e me preparando pra faculdade / mercado de trabalho
-
-💻 Estudando desenvolvimento web com foco em backend
-
-🔧 Explorando JavaScript, Python, Java e construção de APIs
-
-🚀 Aprendendo na prática, testando projeto atrás de projeto
-```
-
----
-
 ### `> atividade`
 
 <div align="center">
