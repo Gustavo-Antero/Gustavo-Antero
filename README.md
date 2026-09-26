@@ -15,7 +15,7 @@ Me chamo Gustavo Antero, tenho 18 anos e sou natural do Rio Grande do Sul. Concl
 <a href="https://github.com/Gustavo-Antero" target="_blank"><img src="https://img.shields.io/badge/-Siga%20me-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/github/followers/Gustavo-Antero?label=Seguidores&style=for-the-badge&color=1DA1F2&labelColor=000000" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Gustavo-Antero&label=Reposit%C3%B3rios&query=%24.public_repos&color=success&style=for-the-badge" />
-<img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Antero&hide=commits,prs,issues,contribs&hide_title=true&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true" height="34" />
+<img src="https://img.shields.io/github/user-stars/Gustavo-Antero?label=Estrelas&style=for-the-badge&color=FFD700&labelColor=000000" />
 
 </div>
 
