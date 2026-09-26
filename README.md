@@ -16,7 +16,7 @@ $ cat gustavo.json
   "nome": "Gustavo",
   "idade": 18,
   "status": "Concluindo o Ensino Médio",
-  "localizacao": "Rio Grande do Sul - Brazil",
+  "localizacao": "Rio Grande do Sul, Brasil",
   "foco_atual": ["Desenvolvimento Web", "Backend"],
   "modo": "aprendendo todo dia",
   "café": true
@@ -29,16 +29,9 @@ $ cat gustavo.json
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,python,java,mysql,git,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,py,java,html,css,nodejs,mysql,git,vscode&theme=dark" />
 
 </div>
-
-<br>
-
-| Front-end | Back-end | Linguagens | Ferramentas |
-|:---:|:---:|:---:|:---:|
-| HTML5 | Python | JavaScript | Git & GitHub |
-| CSS3 | APIs REST | Java | VS Code |
 
 ---
 
@@ -47,12 +40,11 @@ $ cat gustavo.json
 ```
 🎓 Terminando o Ensino Médio e me preparando pra faculdade / mercado de trabalho
 
-💻 Estudando desenvolvimento Web backend
+💻 Estudando desenvolvimento web com foco em backend
 
-🔧 Explorando JavaScript, Python, Java, HTML, CSS e construção de APIs
+🔧 Explorando JavaScript, Python, Java e construção de APIs
 
 🚀 Aprendendo na prática, testando projeto atrás de projeto
-
 ```
 
 ---
@@ -61,13 +53,14 @@ $ cat gustavo.json
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Antero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Antero&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Antero&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Antero&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Antero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Antero&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
-
 
 ---
 
@@ -75,9 +68,9 @@ $ cat gustavo.json
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/gustavo-antero-a15338345/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gustavo-antero-a15338345/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:gustavoanterocrespo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Gustavo-Antero" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
